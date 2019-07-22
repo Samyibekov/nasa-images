@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders and matches the previous snapshot 1`] = `
+<main
+  className="container-fluid"
+>
+  <header
+    className="row"
+  >
+    <div
+      className="col"
+    >
+      <h1>
+        Nasa Images
+      </h1>
+    </div>
+  </header>
+  <div
+    className="row"
+  >
+    <nav
+      className="col-4"
+    >
+      <ul>
+        Loading...
+      </ul>
+    </nav>
+    <article
+      className="col"
+    />
+  </div>
+</main>
+`;
